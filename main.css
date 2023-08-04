@@ -1,0 +1,59 @@
+.navbar-icon {
+      width: 24px;
+      height: 24px;
+    }
+
+.navbar-icon1 {
+    width: 24px;
+    padding-top: 20%;
+    }
+
+#bg-img {
+    margin-top: 100px;
+    object-fit: contain;
+    object-position: center;
+    /* border: 3px solid red; */
+}
+
+h1 {
+    font-family: 'Licorice', cursive;
+    font-size: 120px;
+    font-weight: 500;
+    margin-left: 730px;
+    margin-top: 130px;
+}
+
+p {
+    font-family: 'Licorice', cursive;
+    font-size:35px;
+    margin-left: 1200px;
+    margin-top: 370px;
+    /* font-weight: bold; */
+    color: white;
+}
+
+.bodymain {
+    box-shadow: black;
+    border-radius: 10px;
+    /* border: 8px double gray; */
+}
+
+#second-navbar {
+    display: flex;
+    color: black;
+    background-color: rgb(210, 241, 239);
+    margin: 0;
+	padding:0;
+}
+
+#secondnav {
+    color: black;
+    display:block;
+    margin-left: 100px;
+    margin-right: 50px;
+    padding-right: 110px;
+    font-family: 'Borel', cursive;
+    letter-spacing: 1px;
+}
+
+  
